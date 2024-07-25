@@ -6,7 +6,7 @@ YelpCamp is a full stack website designed to help users find and review campgrou
 
 ## Features
 
-- **Next.js**: Frontend framework for building server-side rendered React applications.
+- **Node.js**: A fast and scalable server environment for handling API requests and server-side logic.
 - **Express.js**: Backend framework for handling API requests and server-side logic.
 - **EJS**: Templating engine for rendering dynamic HTML pages.
 - **Cloudinary**: Cloud service for image uploads and management.
@@ -18,7 +18,7 @@ YelpCamp is a full stack website designed to help users find and review campgrou
 
 ## Technologies Used
 
-- Next.js
+- Node.js
 - Express.js
 - EJS
 - Cloudinary
